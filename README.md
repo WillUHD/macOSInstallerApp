@@ -1,5 +1,5 @@
-# Get macOS Installer App File
-###### Apple provides App Store links to download an installer app for every macOS version starting from macOS High Sierra 10.13. 
+# List of All macOS Installer App Files
+###### Apple provides App Store links to download an installer app for every macOS version starting from macOS High Sierra 10.13. If you want to download a macOS ISO directly, [go to this page](https://www.link.com).
 1. Click the App Store link for the version of macOS you want to download. If your browser asks for permission to open the App Store, click "Open". The App Store app should open displaying the download page.
 2. Click "Get" in the App Store. System Preferences would open displaying the update panel. This is completely normal; just click ```"Install Now"``` to download the installer application.
 3. Once the application has finished downloading, the system will open the app. Quit it by holding down ```Command + Q```.
